@@ -17,3 +17,15 @@ div{
     margin: 10px;
     box-shadow: 10px 10px 10px black;
 }
+li{
+ color: black;
+background-color: white;
+border: 10px solid gold;
+padding: 10px;
+border-radius: 10px 10px 10px;
+text-align: justify;
+
+
+
+
+}
